@@ -1,3 +1,4 @@
+//zzy：此c及h可废弃不用，内容已经整合至DWIN
 #ifndef MY_MAIN_H
 #define MY_MAIN_H
 
