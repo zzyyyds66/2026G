@@ -1,0 +1,22 @@
+# Keil MDK-ARM 编译产物
+MDK-ARM/DebugConfig/
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+MDK-ARM/Scope.uvguix.*
+MDK-ARM/Scope.uvoptx
+MDK-ARM/Scope/*.o
+MDK-ARM/Scope/*.d
+MDK-ARM/Scope/*.crf
+MDK-ARM/Scope/*.dep
+MDK-ARM/Scope/*.axf
+MDK-ARM/Scope/*.lnp
+MDK-ARM/Scope/*.hex
+MDK-ARM/Scope/*.map
+MDK-ARM/Scope/*.htm
+MDK-ARM/Scope/*.lst
+
+# 通用
+*.bak
+*~
+.DS_Store
+Thumbs.db
